@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\tedy\desktop\study\facultate an 3\sem2\parallel distributed algorithms\lab 1\hw\p2 - search number\project1\project1\source.cpp(28): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\tedy\desktop\study\facultate an 3\sem2\parallel distributed algorithms\lab 1\hw\p2 - search number\project1\project1\source.cpp(25): warning C4101: 'numprocs': unreferenced local variable
+c:\users\tedy\desktop\study\facultate an 3\sem2\parallel distributed algorithms\lab 1\hw\p2 - search number\project1\project1\source.cpp(25): warning C4101: 'procid': unreferenced local variable
+  Generating code
+  All 8 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Project1.vcxproj -> C:\Users\Tedy\Desktop\study\facultate an 3\sem2\Parallel distributed algorithms\lab 1\hw\P2 - search number\Project1\x64\Release\Project1.exe
